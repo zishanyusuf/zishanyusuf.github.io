@@ -34,6 +34,7 @@ DT[, lapply(.SD, function(x) {
  }), by=V2]
 ```
 
+
 What did we do? We summed up each column and we again added twice value of first element in each column. Well go on, run the code and see the results for yourself.
 
 ## 1.2 ROWs Wise Operations in data.table 
